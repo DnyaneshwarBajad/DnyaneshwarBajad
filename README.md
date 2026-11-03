@@ -1,125 +1,144 @@
 # Hi, I'm Dnyaneshwar Bajad 👋
 
-### Java Backend Developer | Full Stack Developer | AI/ML Enthusiast
+### Java Backend Developer | Full-Stack Developer | AI/ML Enthusiast
 
-I'm a 2026 B.Tech Information Technology graduate passionate about building scalable backend applications, designing RESTful APIs, and solving real-world engineering problems.
+I’m a developer passionate about building **scalable backend systems, full-stack applications, and AI-powered solutions**. I enjoy solving challenging problems, exploring system design, and turning ideas into practical software.
 
-I primarily work with **Java, Spring Boot, PostgreSQL, Redis, and backend engineering**, while also exploring Full Stack Development and AI-powered applications.
-
-- 🔭 Building backend-focused applications with Java and Spring Boot.
-- 🌱 Exploring system design, scalable architectures, and Agentic AI.
-- 💡 Interested in Backend Development, Distributed Systems, and Problem Solving.
-- 🧠 Solved **400+ DSA problems** across coding platforms.
-- 🎯 Looking for opportunities as a Java Backend Developer / Software Engineer.
+- 🔭 Currently building backend-focused and AI-powered applications.
+- 🌱 Exploring **Spring Boot, System Design, Distributed Systems, and AI Agents**.
+- 💻 Practicing Data Structures & Algorithms and competitive programming.
+- 🎯 Interested in backend engineering, scalable applications, and real-time systems.
+- 📫 GitHub: [@DnyaneshwarBajad](https://github.com/DnyaneshwarBajad)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages**
-- Java, C++, Python, JavaScript, SQL
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
-**Backend Development**
-- Java 21, Spring Boot 3, Spring MVC
-- Spring Security, JWT Authentication
-- Spring Data JPA, Hibernate
-- RESTful APIs, JDBC, Maven
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Databases & Caching**
-- PostgreSQL, MySQL, MongoDB, Redis
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-**Frontend Development**
-- React.js, Node.js, Express.js, Tailwind CSS
-
-**Testing & Tools**
-- JUnit 5, Mockito, Postman, Swagger/OpenAPI
-- Git, GitHub, Docker, Linux
-
-**Core Computer Science**
-- Data Structures & Algorithms
-- OOP, DBMS, Operating Systems
-- Computer Networks, SOLID Principles
-- Design Patterns
-
-**AI/ML**
-- Scikit-learn, Pandas, NumPy
-- Retrieval-Augmented Generation (RAG)
-- Embeddings, Vector Search, Gemini API
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. Smart Parking Management System
-**Java 21 | Spring Boot 3 | PostgreSQL | Redis | Spring Data JPA**
+**Java | Spring Boot | Spring Data JPA | Hibernate | PostgreSQL**
 
-- Developed REST APIs for parking lots, spots, vehicles, sessions, and payments.
-- Implemented automated spot allocation, vehicle-based pricing, and peak-hour pricing.
-- Integrated Redis caching with TTL and cache invalidation.
-- Built centralized exception handling and paginated APIs.
+A backend-focused parking management application designed to manage parking operations.
 
-### 2. RideX – Ride Booking System
-**Java | JDBC | MySQL | Multithreading | Design Patterns**
+- Parking lot and parking spot management.
+- Vehicle registration and parking entry/exit workflows.
+- Parking fee calculation based on vehicle type and duration.
+- REST API development with layered architecture.
 
-- Designed a layered ride-booking application with driver allocation and fare calculation.
-- Implemented concurrent ride-request handling using multithreading and synchronization.
-- Used JDBC, PreparedStatement, and DAO pattern for database operations.
-- Applied Strategy and Factory design patterns.
+[**View Repository →**](https://github.com/DnyaneshwarBajad/Smart_parking)
 
-### 3. Student Mental Health Score Prediction
-**Python | Scikit-learn | Pandas | NumPy | Random Forest**
+### 2. Autonomous Research & Decision Intelligence Agent
+**Node.js | AI Agents | LLMs | Research Automation**
 
-- Built a regression model using 5,000 student records.
-- Developed preprocessing pipelines with scaling and categorical encoding.
-- Achieved 0.878 test R² and 0.347 MAE using Random Forest.
+An advanced AI project focused on automating research and supporting structured decision-making.
 
-### 4. Multimodal RAG PDF Chatbot
-**Node.js | Gemini API | RAG | Embeddings | Vector Search**
+- Designed around autonomous research workflows.
+- Intended to organize information and generate research insights.
+- Focus on agent-driven task execution and decision support.
 
-- Built a document question-answering pipeline using Retrieval-Augmented Generation.
-- Implemented PDF ingestion, text extraction, and chunking.
-- Integrated semantic search, Top-K retrieval, and metadata filtering.
-- Added support for processing relevant images, tables, and diagrams.
+[**View Repository →**](https://github.com/DnyaneshwarBajad/Rag_ai_chatbot)
 
----
+### 3. RideX – Ride Sharing Application
+**MERN Stack | React | Node.js | Express.js | MongoDB**
 
-## 🏆 Achievements
+A ride-sharing application inspired by real-world ride-hailing platforms.
 
-- Solved **400+ Data Structures and Algorithms problems**.
-- Achieved a maximum LeetCode contest rating of **1480**.
-- Secured Top 8 positions in hackathons.
-- Served as Departmental Alumni & Relations Head.
-- Inter-university-level chess and football player.
+- Full-stack application development.
+- Focus on ride booking and user workflows.
+- Exploring real-time application architecture.
 
----
+[**View Repository →**](https://github.com/DnyaneshwarBajad/Ridex)
 
-## 📜 Certifications
+### 4. Grain Processing Platform
+**MongoDB | Express.js | React | Node.js**
 
-- SQL for Data Science – University of California, Davis
-- Programming for Everybody – University of Michigan
-- IBM Java Developer Professional Certificate – In Progress
-- DevOps Certification – In Progress
+A platform designed to connect farmers and businesses for grain and seed trading.
 
----
+- Product listings for agricultural products.
+- Buyer and seller workflows.
+- Appointment-related functionality.
 
-## 📊 Coding Profiles
+[**View Repository →**](https://github.com/DnyaneshwarBajad/Diansh_GrainPro)
 
-- [LeetCode](https://leetcode.com/u/DnyaneshwarBajad/)
-- [GitHub](https://github.com/DnyaneshwarBajad)
-- [LinkedIn](https://www.linkedin.com/in/dnyaneshwar-bajad-0b4ba024a/)
+### 5. Developer Portfolio
+**React | Vite | Tailwind CSS**
+
+A personal portfolio showcasing my projects, skills, and development journey.
+
+[**View Repository →**](https://github.com/DnyaneshwarBajad/Portfolio2.0)
 
 ---
 
-## 🤝 Let's Connect
+## 🧠 Problem Solving
 
-I'm always interested in collaborating on backend engineering, full-stack development, and AI-powered projects.
+I regularly practice Data Structures and Algorithms to improve my problem-solving and coding skills.
 
-📧 **Email:** badnyaneshwar74@gmail.com
+- 400+ problems solved on LeetCode.
+- Practicing Arrays, Strings, Trees, Graphs, Dynamic Programming, and Backtracking.
+- Improving algorithmic thinking and contest performance.
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dnyaneshwar-bajad-0b4ba024a/)
-
-💻 **GitHub:** [Explore my repositories](https://github.com/DnyaneshwarBajad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DnyaneshwarBajad/)
 
 ---
 
-⭐ *Building, learning, and improving one commit at a time!*
+## 🎓 Certifications
+
+- IBM Data Analyst Professional Certificate
+- Meta Full-Stack Developer Certificate
+- Machine Learning – Andrew Ng
+- Deep Learning – Andrew Ng
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DnyaneshwarBajad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DnyaneshwarBajad&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DnyaneshwarBajad&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnyaneshwarBajad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DnyaneshwarBajad/)
+
+**Always learning, building, and solving problems. Let's connect and build something impactful!** 🚀
